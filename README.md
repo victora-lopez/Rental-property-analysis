@@ -1,6 +1,6 @@
 # Rental-property-analysis
 
-This project marks the beginning of my journey with Python, my secondary coding language. The purpose of this project was to gain a better understanding of data analytics and visualization, while pushing my understanding of the language to the next level. The reason I chose data analytics/visualization is because this is one of Python's strong suits, and thought that learning how the ETL data pipeline process works would prove to be valuable for the future. My project consisted and extracting data from a CSV and a pickle file and then cleaning the data to make it usuable for insights on market trends. The results of my code are shown below.
+This project marks the beginning of my journey with Python, my secondary coding language. My goal was to gain a better understanding of data analytics and visualization, while pushing my fluency of Python to the next level. I chose Python because it is known for data analysis and visualization, and thought that learning how the ETL data pipeline process works would prove to be valuable for the future. My project consisted of extracting data from a CSV and pickle file and then cleaning the data to make it usuable for insights on market trends. The results of my code are shown below.
 
 A short snippet of a 10000 point data set is shown below to show the quality of the original data:
 ![dirty-data](https://github.com/user-attachments/assets/66629b59-7d01-4c46-b620-5aca1cc872c7)
