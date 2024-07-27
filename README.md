@@ -1,6 +1,6 @@
 # Rental-property-analysis
 
-This project dives into data analytics and visualization to enhance my understanding of Python. I picked up Python as a secondary language and build this project to push my understanding of Pythons pros and cons by applying it to a project that has real world applications.
+This project dives into data analytics and visualization to enhance my understanding of Python. I picked up Python as a secondary language and built this project to push my understanding of Pythons pros and cons by applying it to a project that has real world applications.
 
 A short snippet of a 10000 point data set is shown below to show the quality of the original data:
 ![dirty-data](https://github.com/user-attachments/assets/66629b59-7d01-4c46-b620-5aca1cc872c7)
